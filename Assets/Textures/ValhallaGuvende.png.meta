@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 0e5d5d9bd6e35844faea388fa99bb985
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7356653725302525915
+    second: ValhallaGuvende_0
+  - first:
+      213: -3358266716893282092
+    second: ValhallaGuvende_1
+  - first:
+      213: -3988590512914830355
+    second: ValhallaGuvende_2
+  - first:
+      213: -1310519121271841407
+    second: ValhallaGuvende_3
+  - first:
+      213: -4503552489988536406
+    second: ValhallaGuvende_4
+  - first:
+      213: -6123854237918481730
+    second: ValhallaGuvende_5
+  - first:
+      213: 3542234763569994241
+    second: ValhallaGuvende_6
+  - first:
+      213: 8022622096750898908
+    second: ValhallaGuvende_7
+  - first:
+      213: -8659817809961080344
+    second: ValhallaGuvende_8
+  - first:
+      213: -8762869024018562447
+    second: ValhallaGuvende_9
+  - first:
+      213: -3921164387605075618
+    second: ValhallaGuvende_10
+  - first:
+      213: 4997222699952308316
+    second: ValhallaGuvende_11
+  - first:
+      213: -2689523657009360392
+    second: ValhallaGuvende_12
+  - first:
+      213: 5427829612646195756
+    second: ValhallaGuvende_13
+  - first:
+      213: 116996739970681387
+    second: ValhallaGuvende_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 214, y: 636, z: 202, w: 625}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ValhallaGuvende_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1048
+        width: 220
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520f9cff96ae7e990800000000000000
+      internalID: -7356653725302525915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1044
+        width: 218
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d00f8eb63a0561d0800000000000000
+      internalID: -3358266716893282092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1048
+        width: 152
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debe73b9f0ea5a8c0800000000000000
+      internalID: -3988590512914830355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1048
+        width: 194
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d1c397dc910dde0800000000000000
+      internalID: -1310519121271841407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_4
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1044
+        width: 216
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa748e60fda2081c0800000000000000
+      internalID: -4503552489988536406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_5
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1048
+        width: 151
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb239942403b30ba0800000000000000
+      internalID: -6123854237918481730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_6
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1048
+        width: 151
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a11a9ffbb882130800000000000000
+      internalID: 3542234763569994241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_7
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1044
+        width: 216
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde69049a44165f60800000000000000
+      internalID: 8022622096750898908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 680
+        width: 191
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92ba1659522d780800000000000000
+      internalID: -8659817809961080344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 681
+        width: 188
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728912ec09046680800000000000000
+      internalID: -8762869024018562447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_10
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 682
+        width: 221
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5923e2c3c93599c0800000000000000
+      internalID: -3921164387605075618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 681
+        width: 163
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c500d26b193b95540800000000000000
+      internalID: 4997222699952308316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_12
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 681
+        width: 199
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f192f0db74ecaad0800000000000000
+      internalID: -2689523657009360392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 678
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c226f1b5646835b40800000000000000
+      internalID: 5427829612646195756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValhallaGuvende_14
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 681
+        width: 163
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ac4d54ae7af9100800000000000000
+      internalID: 116996739970681387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ValhallaGuvende_0: -7356653725302525915
+      ValhallaGuvende_1: -3358266716893282092
+      ValhallaGuvende_10: -3921164387605075618
+      ValhallaGuvende_11: 4997222699952308316
+      ValhallaGuvende_12: -2689523657009360392
+      ValhallaGuvende_13: 5427829612646195756
+      ValhallaGuvende_14: 116996739970681387
+      ValhallaGuvende_2: -3988590512914830355
+      ValhallaGuvende_3: -1310519121271841407
+      ValhallaGuvende_4: -4503552489988536406
+      ValhallaGuvende_5: -6123854237918481730
+      ValhallaGuvende_6: 3542234763569994241
+      ValhallaGuvende_7: 8022622096750898908
+      ValhallaGuvende_8: -8659817809961080344
+      ValhallaGuvende_9: -8762869024018562447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

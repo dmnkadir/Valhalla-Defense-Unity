@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 3a01a16cba2842244845db94a4007ffb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3815973241407692727
+    second: "DumanK\u0131v\u0131lcm_0"
+  - first:
+      213: -4379174729658419932
+    second: "DumanK\u0131v\u0131lcm_1"
+  - first:
+      213: 7983058358870175482
+    second: "DumanK\u0131v\u0131lcm_2"
+  - first:
+      213: 3581977716178951158
+    second: "DumanK\u0131v\u0131lcm_3"
+  - first:
+      213: -7774591148594664248
+    second: "DumanK\u0131v\u0131lcm_4"
+  - first:
+      213: -7269013942459582977
+    second: "DumanK\u0131v\u0131lcm_5"
+  - first:
+      213: 3398586050860488487
+    second: "DumanK\u0131v\u0131lcm_6"
+  - first:
+      213: 9088661035109659613
+    second: "DumanK\u0131v\u0131lcm_7"
+  - first:
+      213: 5377271258741807937
+    second: "DumanK\u0131v\u0131lcm_8"
+  - first:
+      213: -5984849169305469062
+    second: "DumanK\u0131v\u0131lcm_9"
+  - first:
+      213: -8178676413036726907
+    second: "DumanK\u0131v\u0131lcm_10"
+  - first:
+      213: -6132486606202945907
+    second: "DumanK\u0131v\u0131lcm_11"
+  - first:
+      213: -6641276073874442435
+    second: "DumanK\u0131v\u0131lcm_12"
+  - first:
+      213: -5293560261021890022
+    second: "DumanK\u0131v\u0131lcm_13"
+  - first:
+      213: 4844701380601433513
+    second: "DumanK\u0131v\u0131lcm_14"
+  - first:
+      213: 2233194831687124422
+    second: "DumanK\u0131v\u0131lcm_15"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_0"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 2382
+        height: 1534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940af790e80fa0bc0800000000000000
+      internalID: -3815973241407692727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_1"
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1227
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425b75509cb0a33c0800000000000000
+      internalID: -4379174729658419932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_2"
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 1215
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe6ba5084589ce60800000000000000
+      internalID: 7983058358870175482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_3"
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1154
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb163631cdb5b130800000000000000
+      internalID: 3581977716178951158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_4"
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 805
+        width: 254
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6e1aba8a1b1490800000000000000
+      internalID: -7774591148594664248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_5"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 760
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b55c05564f1b90800000000000000
+      internalID: -7269013942459582977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_6"
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 751
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727132cb1043a2f20800000000000000
+      internalID: 3398586050860488487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_7"
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 719
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd335a1ce09612e70800000000000000
+      internalID: 9088661035109659613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_8"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 600
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b193648b7ef9a40800000000000000
+      internalID: 5377271258741807937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_9"
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 385
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f714db36b81fca0800000000000000
+      internalID: -5984849169305469062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_10"
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 334
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585741482218f7e80800000000000000
+      internalID: -8178676413036726907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_11"
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 289
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ebe674ce705eaa0800000000000000
+      internalID: -6132486606202945907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_12"
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 298
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37b969099275d3a0800000000000000
+      internalID: -6641276073874442435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_13"
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 259
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a8aa43dfe7986b0800000000000000
+      internalID: -5293560261021890022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_14"
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 231
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adc791cc36db3340800000000000000
+      internalID: 4844701380601433513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DumanK\u0131v\u0131lcm_15"
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 0
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c503f01ed6edfe10800000000000000
+      internalID: 2233194831687124422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "DumanK\u0131v\u0131lcm_0": -3815973241407692727
+      "DumanK\u0131v\u0131lcm_1": -4379174729658419932
+      "DumanK\u0131v\u0131lcm_10": -8178676413036726907
+      "DumanK\u0131v\u0131lcm_11": -6132486606202945907
+      "DumanK\u0131v\u0131lcm_12": -6641276073874442435
+      "DumanK\u0131v\u0131lcm_13": -5293560261021890022
+      "DumanK\u0131v\u0131lcm_14": 4844701380601433513
+      "DumanK\u0131v\u0131lcm_15": 2233194831687124422
+      "DumanK\u0131v\u0131lcm_2": 7983058358870175482
+      "DumanK\u0131v\u0131lcm_3": 3581977716178951158
+      "DumanK\u0131v\u0131lcm_4": -7774591148594664248
+      "DumanK\u0131v\u0131lcm_5": -7269013942459582977
+      "DumanK\u0131v\u0131lcm_6": 3398586050860488487
+      "DumanK\u0131v\u0131lcm_7": 9088661035109659613
+      "DumanK\u0131v\u0131lcm_8": 5377271258741807937
+      "DumanK\u0131v\u0131lcm_9": -5984849169305469062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

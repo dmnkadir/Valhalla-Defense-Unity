@@ -1,0 +1,126 @@
+[05.03.2026 08:47:59] --- NEW GAME STARTED ---
+Scenario: 'Valhallayı Savun' | Starting Lives: 100 | Money: 200
+--------------------------------------------------------------------
+[08:48:03] Kullanıcı, (-10, 2) konumuna 'FreyaTower-ID001' inşa etti. Kalan Para: 150.
+[08:48:05] Kullanıcı, (-1, 2) konumuna 'YmirTower-ID001' inşa etti. Kalan Para: 80.
+[08:48:07] Kullanıcı, (0, 2) konumuna 'OdinTower-ID001' inşa etti. Kalan Para: 5.
+[08:48:10] Dalga 1 Başladı. (Senaryo: FirstWave)
+[08:48:10] Düşman 'Valkyrie-ID001' (Can: 50/50) haritaya girdi.
+[08:48:10] Düşman 'Draugr-ID001' (Can: 50/50) haritaya girdi.
+[08:48:10] Düşman 'Hrimthurs-ID001' (Can: 75/75) haritaya girdi.
+[08:48:10] Düşman 'Draugr-ID002' (Can: 50/50) haritaya girdi.
+[08:48:10] Kule 'FreyaTower-ID001' okunu fırlattı. Hedef: Draugr-ID001
+[08:48:10]    -> Zırh: 0 | Can: 50,0 -> 40,0 | (Net Hasar: 10,0)
+[08:48:10] Düşman 'Hrimthurs-ID002' (Can: 75/75) haritaya girdi.
+[08:48:11] Kule 'FreyaTower-ID001' okunu fırlattı. Hedef: Draugr-ID001
+[08:48:11]    -> Zırh: 0 | Can: 40,0 -> 30,0 | (Net Hasar: 10,0)
+[08:48:11] Dalga 2 Başladı. (Senaryo: SecondWave)
+[08:48:11] Düşman 'Valkyrie-ID002' (Can: 50/50) haritaya girdi.
+[08:48:11] Düşman 'Draugr-ID003' (Can: 50/50) haritaya girdi.
+[08:48:11] Düşman 'Hrimthurs-ID003' (Can: 75/75) haritaya girdi.
+[08:48:11] Kule 'FreyaTower-ID001' okunu fırlattı. Hedef: Draugr-ID001
+[08:48:11]    -> Zırh: 0 | Can: 30,0 -> 20,0 | (Net Hasar: 10,0)
+[08:48:12] Düşman 'Valkyrie-ID003' (Can: 50/50) haritaya girdi.
+[08:48:12] Düşman 'Draugr-ID004' (Can: 50/50) haritaya girdi.
+[08:48:12] Düşman 'Hrimthurs-ID004' (Can: 75/75) haritaya girdi.
+[08:48:12] Düşman 'Draugr-ID005' (Can: 50/50) haritaya girdi.
+[08:48:12] Düşman 'Hrimthurs-ID005' (Can: 75/75) haritaya girdi.
+[08:48:12] Kule 'FreyaTower-ID001' okunu fırlattı. Hedef: Draugr-ID003
+[08:48:12]    -> Zırh: 0 | Can: 50,0 -> 40,0 | (Net Hasar: 10,0)
+[08:48:12] Düşman 'Hrimthurs-ID006' (Can: 75/75) haritaya girdi.
+[08:48:12] Kule 'YmirTower-ID001' nefesiyle 'Draugr-ID001' hedefini dondurdu.
+[08:48:12]    -> Zırh: 0 | Can: 20,0 -> 5,0 | (Net Hasar: 15,0 + Yavaşlatma)
+[08:48:12] Düşman 'Hrimthurs-ID007' (Can: 75/75) haritaya girdi.
+[08:48:12] Kullanıcı, (1, 2) konumuna 'OdinTower-ID002' inşa etti. Kalan Para: 115.
+[08:48:12] Kule 'FreyaTower-ID001' okunu fırlattı. Hedef: Draugr-ID003
+[08:48:12]    -> Zırh: 0 | Can: 40,0 -> 30,0 | (Net Hasar: 10,0)
+[08:48:12] 'Valkyrie-ID001' Valhallaya Ulaştı. Kalan Can: 95 Alınan Hasar (-5).
+[08:48:13] Kule 'YmirTower-ID001' nefesiyle 'Draugr-ID002' hedefini dondurdu.
+[08:48:13]    -> Zırh: 0 | Can: 50,0 -> 35,0 | (Net Hasar: 15,0 + Yavaşlatma)
+[08:48:13] Kule 'OdinTower-ID002' yıldırım çarptırdı. (Merkez: Draugr-ID002)
+[08:48:13]    -> Hedef: 'Draugr-ID001' | Zırh: 0 | Mevcut Can: 5,0 -> Kalan: 0,0 | (Net Hasar: 20,0)
+[08:48:13] 'Draugr-ID001' died. Reward +10. Total Money: 125.
+[08:48:13]    -> Hedef: 'Draugr-ID002' | Zırh: 0 | Mevcut Can: 35,0 -> Kalan: 15,0 | (Net Hasar: 20,0)
+[08:48:13] Kule 'FreyaTower-ID001' okunu fırlattı. Hedef: Draugr-ID004
+[08:48:13]    -> Zırh: 0 | Can: 50,0 -> 40,0 | (Net Hasar: 10,0)
+[08:48:13] Kule 'YmirTower-ID001' nefesiyle 'Draugr-ID002' hedefini dondurdu.
+[08:48:13]    -> Zırh: 0 | Can: 15,0 -> 0,0 | (Net Hasar: 15,0 + Yavaşlatma)
+[08:48:13] 'Draugr-ID002' died. Reward +10. Total Money: 135.
+[08:48:13] Kullanıcı, (3, 2) konumuna 'FreyaTower-ID002' inşa etti. Kalan Para: 85.
+[08:48:14] 'Valkyrie-ID002' Valhallaya Ulaştı. Kalan Can: 90 Alınan Hasar (-5).
+[08:48:14] Kule 'YmirTower-ID001' nefesiyle 'Draugr-ID003' hedefini dondurdu.
+[08:48:14]    -> Zırh: 0 | Can: 30,0 -> 15,0 | (Net Hasar: 15,0 + Yavaşlatma)
+[08:48:14] 'Valkyrie-ID003' Valhallaya Ulaştı. Kalan Can: 85 Alınan Hasar (-5).
+[08:48:15] Kule 'YmirTower-ID001' nefesiyle 'Draugr-ID004' hedefini dondurdu.
+[08:48:15]    -> Zırh: 0 | Can: 40,0 -> 25,0 | (Net Hasar: 15,0 + Yavaşlatma)
+[08:48:15] Kullanıcı, (0, 2) konumuna 'FreyaTower-ID003' inşa etti. Kalan Para: 35.
+[08:48:15] Kule 'YmirTower-ID001' nefesiyle 'Draugr-ID004' hedefini dondurdu.
+[08:48:15]    -> Zırh: 0 | Can: 25,0 -> 10,0 | (Net Hasar: 15,0 + Yavaşlatma)
+[08:48:15] Kule 'FreyaTower-ID002' okunu fırlattı. Hedef: Draugr-ID005
+[08:48:15]    -> Zırh: 0 | Can: 50,0 -> 40,0 | (Net Hasar: 10,0)
+[08:48:15] Kule 'OdinTower-ID002' yıldırım çarptırdı. (Merkez: Draugr-ID005)
+[08:48:15]    -> Hedef: 'Draugr-ID004' | Zırh: 0 | Mevcut Can: 10,0 -> Kalan: 0,0 | (Net Hasar: 20,0)
+[08:48:15] 'Draugr-ID004' died. Reward +10. Total Money: 45.
+[08:48:15]    -> Hedef: 'Draugr-ID003' | Zırh: 0 | Mevcut Can: 15,0 -> Kalan: 0,0 | (Net Hasar: 20,0)
+[08:48:15] 'Draugr-ID003' died. Reward +10. Total Money: 55.
+[08:48:15]    -> Hedef: 'Draugr-ID005' | Zırh: 0 | Mevcut Can: 40,0 -> Kalan: 20,0 | (Net Hasar: 20,0)
+[08:48:15] Kule 'OdinTower-ID001' yıldırım çarptırdı. (Merkez: Hrimthurs-ID001)
+[08:48:15]    -> Hedef: 'Hrimthurs-ID002' | Zırh: 100 | Mevcut Can: 75,0 -> Kalan: 65,0 | (Net Hasar: 10,0)
+[08:48:15]    -> Hedef: 'Hrimthurs-ID001' | Zırh: 100 | Mevcut Can: 75,0 -> Kalan: 65,0 | (Net Hasar: 10,0)
+[08:48:16] Kule 'FreyaTower-ID002' okunu fırlattı. Hedef: Draugr-ID005
+[08:48:16]    -> Zırh: 0 | Can: 20,0 -> 10,0 | (Net Hasar: 10,0)
+[08:48:16] Kule 'YmirTower-ID001' nefesiyle 'Hrimthurs-ID001' hedefini dondurdu.
+[08:48:16]    -> Zırh: 100 | Can: 55,0 -> 47,5 | (Net Hasar: 7,5 + Yavaşlatma)
+[08:48:16] 'Draugr-ID005' Valhallaya Ulaştı. Kalan Can: 80 Alınan Hasar (-5).
+[08:48:16] Kule 'YmirTower-ID001' nefesiyle 'Hrimthurs-ID001' hedefini dondurdu.
+[08:48:16]    -> Zırh: 100 | Can: 40,0 -> 32,5 | (Net Hasar: 7,5 + Yavaşlatma)
+[08:48:17] Kule 'YmirTower-ID001' nefesiyle 'Hrimthurs-ID001' hedefini dondurdu.
+[08:48:17]    -> Zırh: 100 | Can: 25,0 -> 17,5 | (Net Hasar: 7,5 + Yavaşlatma)
+[08:48:17] Kule 'OdinTower-ID001' yıldırım çarptırdı. (Merkez: Hrimthurs-ID002)
+[08:48:17]    -> Hedef: 'Hrimthurs-ID002' | Zırh: 100 | Mevcut Can: 55,0 -> Kalan: 45,0 | (Net Hasar: 10,0)
+[08:48:17]    -> Hedef: 'Hrimthurs-ID001' | Zırh: 100 | Mevcut Can: 10,0 -> Kalan: 0,0 | (Net Hasar: 10,0)
+[08:48:17] 'Hrimthurs-ID001' died. Reward +20. Total Money: 75.
+[08:48:17] Kule 'OdinTower-ID002' yıldırım çarptırdı. (Merkez: Hrimthurs-ID002)
+[08:48:17]    -> Hedef: 'Hrimthurs-ID002' | Zırh: 100 | Mevcut Can: 35,0 -> Kalan: 25,0 | (Net Hasar: 10,0)
+[08:48:17] Kule 'YmirTower-ID001' nefesiyle 'Hrimthurs-ID002' hedefini dondurdu.
+[08:48:17]    -> Zırh: 100 | Can: 15,0 -> 7,5 | (Net Hasar: 7,5 + Yavaşlatma)
+[08:48:17] 'Hrimthurs-ID002' died. Reward +20. Total Money: 95.
+[08:48:18] Kule 'YmirTower-ID001' nefesiyle 'Hrimthurs-ID003' hedefini dondurdu.
+[08:48:18]    -> Zırh: 100 | Can: 75,0 -> 67,5 | (Net Hasar: 7,5 + Yavaşlatma)
+[08:48:18] Kule 'YmirTower-ID001' nefesiyle 'Hrimthurs-ID004' hedefini dondurdu.
+[08:48:18]    -> Zırh: 100 | Can: 75,0 -> 67,5 | (Net Hasar: 7,5 + Yavaşlatma)
+[08:48:19] Kule 'OdinTower-ID001' yıldırım çarptırdı. (Merkez: Hrimthurs-ID006)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID004' | Zırh: 100 | Mevcut Can: 60,0 -> Kalan: 50,0 | (Net Hasar: 10,0)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID003' | Zırh: 100 | Mevcut Can: 60,0 -> Kalan: 50,0 | (Net Hasar: 10,0)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID005' | Zırh: 100 | Mevcut Can: 75,0 -> Kalan: 65,0 | (Net Hasar: 10,0)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID006' | Zırh: 100 | Mevcut Can: 75,0 -> Kalan: 65,0 | (Net Hasar: 10,0)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID007' | Zırh: 100 | Mevcut Can: 75,0 -> Kalan: 65,0 | (Net Hasar: 10,0)
+[08:48:19] Kule 'OdinTower-ID002' yıldırım çarptırdı. (Merkez: Hrimthurs-ID004)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID004' | Zırh: 100 | Mevcut Can: 40,0 -> Kalan: 30,0 | (Net Hasar: 10,0)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID003' | Zırh: 100 | Mevcut Can: 40,0 -> Kalan: 30,0 | (Net Hasar: 10,0)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID005' | Zırh: 100 | Mevcut Can: 55,0 -> Kalan: 45,0 | (Net Hasar: 10,0)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID006' | Zırh: 100 | Mevcut Can: 55,0 -> Kalan: 45,0 | (Net Hasar: 10,0)
+[08:48:19]    -> Hedef: 'Hrimthurs-ID007' | Zırh: 100 | Mevcut Can: 55,0 -> Kalan: 45,0 | (Net Hasar: 10,0)
+[08:48:19] Kule 'YmirTower-ID001' nefesiyle 'Hrimthurs-ID004' hedefini dondurdu.
+[08:48:19]    -> Zırh: 100 | Can: 20,0 -> 12,5 | (Net Hasar: 7,5 + Yavaşlatma)
+[08:48:19] Kule 'YmirTower-ID001' nefesiyle 'Hrimthurs-ID007' hedefini dondurdu.
+[08:48:19]    -> Zırh: 100 | Can: 35,0 -> 27,5 | (Net Hasar: 7,5 + Yavaşlatma)
+[08:48:20] Kule 'FreyaTower-ID002' okunu fırlattı. Hedef: Hrimthurs-ID005
+[08:48:20]    -> Zırh: 100 | Can: 35,0 -> 30,0 | (Net Hasar: 5,0)
+[08:48:20] Kule 'OdinTower-ID002' yıldırım çarptırdı. (Merkez: Hrimthurs-ID007)
+[08:48:20]    -> Hedef: 'Hrimthurs-ID004' | Zırh: 100 | Mevcut Can: 5,0 -> Kalan: 0,0 | (Net Hasar: 10,0)
+[08:48:20] 'Hrimthurs-ID004' died. Reward +20. Total Money: 115.
+[08:48:20]    -> Hedef: 'Hrimthurs-ID003' | Zırh: 100 | Mevcut Can: 20,0 -> Kalan: 10,0 | (Net Hasar: 10,0)
+[08:48:20] 'Hrimthurs-ID003' died. Reward +20. Total Money: 135.
+[08:48:20]    -> Hedef: 'Hrimthurs-ID005' | Zırh: 100 | Mevcut Can: 30,0 -> Kalan: 20,0 | (Net Hasar: 10,0)
+[08:48:20]    -> Hedef: 'Hrimthurs-ID006' | Zırh: 100 | Mevcut Can: 35,0 -> Kalan: 25,0 | (Net Hasar: 10,0)
+[08:48:20]    -> Hedef: 'Hrimthurs-ID007' | Zırh: 100 | Mevcut Can: 20,0 -> Kalan: 10,0 | (Net Hasar: 10,0)
+[08:48:20] 'Hrimthurs-ID007' died. Reward +20. Total Money: 155.
+[08:48:20] Kule 'FreyaTower-ID002' okunu fırlattı. Hedef: Hrimthurs-ID005
+[08:48:20]    -> Zırh: 100 | Can: 10,0 -> 5,0 | (Net Hasar: 5,0)
+[08:48:21] Kule 'FreyaTower-ID002' okunu fırlattı. Hedef: Hrimthurs-ID006
+[08:48:21]    -> Zırh: 100 | Can: 15,0 -> 10,0 | (Net Hasar: 5,0)
+[08:48:21] 'Hrimthurs-ID005' Valhallaya Ulaştı. Kalan Can: 70 Alınan Hasar (-10).
+[08:48:21] 'Hrimthurs-ID006' Valhallaya Ulaştı. Kalan Can: 60 Alınan Hasar (-10).
+[08:48:21] ---------------------------------------------------------------------------------------------------------
+[08:48:21] SON: Tüm dalgalar temizlendi. Valhalla Güvende! (Kalan Can: 60, Toplam Para: 155)

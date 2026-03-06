@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 33f1427f52bfc0a4981b004bfd2d1065
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4332264917715455605
+    second: LoserImage_0
+  - first:
+      213: -5033427740713950118
+    second: LoserImage_1
+  - first:
+      213: -1978900291875235204
+    second: LoserImage_2
+  - first:
+      213: 7162371344578033540
+    second: LoserImage_3
+  - first:
+      213: -794812480351035389
+    second: LoserImage_4
+  - first:
+      213: 5329990237080846920
+    second: LoserImage_5
+  - first:
+      213: -3419505614655522575
+    second: LoserImage_6
+  - first:
+      213: 9193283600146474145
+    second: LoserImage_7
+  - first:
+      213: -8256891748483438478
+    second: LoserImage_8
+  - first:
+      213: 8443496119369462631
+    second: LoserImage_9
+  - first:
+      213: -7906643946545203143
+    second: LoserImage_10
+  - first:
+      213: 1020713713729043546
+    second: LoserImage_11
+  - first:
+      213: 2504063304300564559
+    second: LoserImage_12
+  - first:
+      213: 2796475427903188565
+    second: LoserImage_13
+  - first:
+      213: -6712164147726356450
+    second: LoserImage_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoserImage_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 919
+        width: 523
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81feaab204b0e3c0800000000000000
+      internalID: -4332264917715455605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_1
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 924
+        width: 262
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54e528532ca52ab0800000000000000
+      internalID: -5033427740713950118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 933
+        width: 246
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a1cd05ba88984e0800000000000000
+      internalID: -1978900291875235204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_3
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 918
+        width: 282
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487b20f3acad56360800000000000000
+      internalID: 7162371344578033540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_4
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 933
+        width: 274
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30021ad924248f4f0800000000000000
+      internalID: -794812480351035389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_5
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1341
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842018191ede7f940800000000000000
+      internalID: 5329990237080846920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_6
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1343
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8f003c2c97b80d0800000000000000
+      internalID: -3419505614655522575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_7
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 918
+        width: 273
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4a72ae9ba159f70800000000000000
+      internalID: 9193283600146474145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_8
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 458
+        width: 217
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2786ace93b0a96d80800000000000000
+      internalID: -8256891748483438478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_9
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 440
+        width: 261
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763f7692cf25d2570800000000000000
+      internalID: 8443496119369462631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_10
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 864
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9383ea8c835f54290800000000000000
+      internalID: -7906643946545203143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_11
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 898
+        width: 251
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c7034f6bd4a2e00800000000000000
+      internalID: 1020713713729043546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 474
+        width: 266
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f401de3ee4830c220800000000000000
+      internalID: 2504063304300564559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 442
+        width: 240
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e2747d5931fc620800000000000000
+      internalID: 2796475427903188565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoserImage_14
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 446
+        width: 124
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1078ac254a99d2a0800000000000000
+      internalID: -6712164147726356450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LoserImage_0: -4332264917715455605
+      LoserImage_1: -5033427740713950118
+      LoserImage_10: -7906643946545203143
+      LoserImage_11: 1020713713729043546
+      LoserImage_12: 2504063304300564559
+      LoserImage_13: 2796475427903188565
+      LoserImage_14: -6712164147726356450
+      LoserImage_2: -1978900291875235204
+      LoserImage_3: 7162371344578033540
+      LoserImage_4: -794812480351035389
+      LoserImage_5: 5329990237080846920
+      LoserImage_6: -3419505614655522575
+      LoserImage_7: 9193283600146474145
+      LoserImage_8: -8256891748483438478
+      LoserImage_9: 8443496119369462631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
